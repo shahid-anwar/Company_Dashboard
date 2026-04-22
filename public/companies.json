@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Solutions",
+    "industry": "Technology",
+    "location": "San Francisco, USA",
+    "employees": 5000,
+    "founded": 2010,
+    "description": "Leading software development company"
+  },
+  {
+    "id": 2,
+    "name": "Green Energy Ltd",
+    "industry": "Energy",
+    "location": "Berlin, Germany",
+    "employees": 2000,
+    "founded": 2015,
+    "description": "Renewable energy solutions provider"
+  },
+  {
+    "id": 3,
+    "name": "FinanceHub Inc",
+    "industry": "Finance",
+    "location": "London, UK",
+    "employees": 8000,
+    "founded": 2005,
+    "description": "Global financial services company"
+  },
+  {
+    "id": 4,
+    "name": "HealthCare Plus",
+    "industry": "Healthcare",
+    "location": "New York, USA",
+    "employees": 3000,
+    "founded": 2012,
+    "description": "Healthcare technology platform"
+  },
+  {
+    "id": 5,
+    "name": "EduTech Global",
+    "industry": "Education",
+    "location": "Singapore",
+    "employees": 1500,
+    "founded": 2018,
+    "description": "Online education platform"
+  },
+  {
+    "id": 6,
+    "name": "RetailMax",
+    "industry": "Retail",
+    "location": "Tokyo, Japan",
+    "employees": 12000,
+    "founded": 2000,
+    "description": "E-commerce retail giant"
+  },
+  {
+    "id": 7,
+    "name": "AutoDrive Systems",
+    "industry": "Automotive",
+    "location": "Munich, Germany",
+    "employees": 6000,
+    "founded": 2014,
+    "description": "Autonomous vehicle technology"
+  },
+  {
+    "id": 8,
+    "name": "MediaStream Co",
+    "industry": "Media",
+    "location": "Los Angeles, USA",
+    "employees": 4000,
+    "founded": 2016,
+    "description": "Digital streaming platform"
+  },
+  {
+    "id": 9,
+    "name": "FoodChain Network",
+    "industry": "Food & Beverage",
+    "location": "Paris, France",
+    "employees": 2500,
+    "founded": 2013,
+    "description": "Food delivery and restaurant tech"
+  },
+  {
+    "id": 10,
+    "name": "CloudNet Services",
+    "industry": "Technology",
+    "location": "Seattle, USA",
+    "employees": 7000,
+    "founded": 2011,
+    "description": "Cloud infrastructure provider"
+  },
+  {
+    "id": 11,
+    "name": "BioPharm Labs",
+    "industry": "Healthcare",
+    "location": "Boston, USA",
+    "employees": 3500,
+    "founded": 2008,
+    "description": "Pharmaceutical research and development"
+  },
+  {
+    "id": 12,
+    "name": "GreenBuild Construction",
+    "industry": "Construction",
+    "location": "Dubai, UAE",
+    "employees": 5500,
+    "founded": 2009,
+    "description": "Sustainable construction company"
+  },
+  {
+    "id": 13,
+    "name": "TravelEase",
+    "industry": "Travel",
+    "location": "Barcelona, Spain",
+    "employees": 1800,
+    "founded": 2017,
+    "description": "Travel booking platform"
+  },
+  {
+    "id": 14,
+    "name": "SecureBank",
+    "industry": "Finance",
+    "location": "Zurich, Switzerland",
+    "employees": 9000,
+    "founded": 2003,
+    "description": "Digital banking solutions"
+  },
+  {
+    "id": 15,
+    "name": "SpaceVentures",
+    "industry": "Aerospace",
+    "location": "Cape Town, South Africa",
+    "employees": 2200,
+    "founded": 2019,
+    "description": "Commercial space technology"
+  }
+]
